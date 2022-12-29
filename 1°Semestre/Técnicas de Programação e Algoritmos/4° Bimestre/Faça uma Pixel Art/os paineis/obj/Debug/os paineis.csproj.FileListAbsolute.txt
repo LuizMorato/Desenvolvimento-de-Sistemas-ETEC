@@ -1,0 +1,21 @@
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\os paineis\os paineis\bin\Debug\os paineis.exe
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\os paineis\os paineis\bin\Debug\os paineis.pdb
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\os paineis\os paineis\obj\Debug\os paineis.csprojResolveAssemblyReference.cache
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\os paineis\os paineis\obj\Debug\os_paineis.MainForm.resources
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\os paineis\os paineis\obj\Debug\os paineis.csproj.GenerateResource.Cache
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\os paineis\os paineis\obj\Debug\os paineis.exe
+C:\Users\luizi\OneDrive\Documentos\SharpDevelop Projects\os paineis\os paineis\obj\Debug\os paineis.pdb
+C:\Users\luizi\Downloads\V2 2022🥶الألواح الملونة\os paineis - Copia\os paineis\bin\Debug\os paineis.exe
+C:\Users\luizi\Downloads\V2 2022🥶الألواح الملونة\os paineis - Copia\os paineis\bin\Debug\os paineis.pdb
+C:\Users\luizi\Downloads\V2 2022🥶الألواح الملونة\os paineis - Copia\os paineis\obj\Debug\os paineis.csprojResolveAssemblyReference.cache
+C:\Users\luizi\Downloads\V2 2022🥶الألواح الملونة\os paineis - Copia\os paineis\obj\Debug\os_paineis.MainForm.resources
+C:\Users\luizi\Downloads\V2 2022🥶الألواح الملونة\os paineis - Copia\os paineis\obj\Debug\os paineis.csproj.GenerateResource.Cache
+C:\Users\luizi\Downloads\V2 2022🥶الألواح الملونة\os paineis - Copia\os paineis\obj\Debug\os paineis.exe
+C:\Users\luizi\Downloads\V2 2022🥶الألواح الملونة\os paineis - Copia\os paineis\obj\Debug\os paineis.pdb
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\4° Bimestre\Faça uma Pixel Art\os paineis\bin\Debug\os paineis.exe
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\4° Bimestre\Faça uma Pixel Art\os paineis\bin\Debug\os paineis.pdb
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\4° Bimestre\Faça uma Pixel Art\os paineis\obj\Debug\os paineis.csprojResolveAssemblyReference.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\4° Bimestre\Faça uma Pixel Art\os paineis\obj\Debug\os_paineis.MainForm.resources
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\4° Bimestre\Faça uma Pixel Art\os paineis\obj\Debug\os paineis.csproj.GenerateResource.Cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\4° Bimestre\Faça uma Pixel Art\os paineis\obj\Debug\os paineis.exe
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\4° Bimestre\Faça uma Pixel Art\os paineis\obj\Debug\os paineis.pdb

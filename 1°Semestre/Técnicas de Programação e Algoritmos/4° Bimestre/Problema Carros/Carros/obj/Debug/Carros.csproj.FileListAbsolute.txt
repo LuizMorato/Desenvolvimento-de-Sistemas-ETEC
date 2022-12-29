@@ -1,0 +1,16 @@
+U:\Escola\TPA\projetos TPA\Carros\Carros\bin\Debug\Carros.exe.config
+U:\Escola\TPA\projetos TPA\Carros\Carros\bin\Debug\Carros.exe
+U:\Escola\TPA\projetos TPA\Carros\Carros\bin\Debug\Carros.pdb
+U:\Escola\TPA\projetos TPA\Carros\Carros\obj\Debug\Carros.csprojResolveAssemblyReference.cache
+U:\Escola\TPA\projetos TPA\Carros\Carros\obj\Debug\Carros.MainForm.resources
+U:\Escola\TPA\projetos TPA\Carros\Carros\obj\Debug\Carros.csproj.GenerateResource.Cache
+U:\Escola\TPA\projetos TPA\Carros\Carros\obj\Debug\Carros.exe
+U:\Escola\TPA\projetos TPA\Carros\Carros\obj\Debug\Carros.pdb
+C:\Users\luizi\Downloads\Problema Carros\Carros\bin\Debug\Carros.exe.config
+C:\Users\luizi\Downloads\Problema Carros\Carros\bin\Debug\Carros.exe
+C:\Users\luizi\Downloads\Problema Carros\Carros\bin\Debug\Carros.pdb
+C:\Users\luizi\Downloads\Problema Carros\Carros\obj\Debug\Carros.csprojResolveAssemblyReference.cache
+C:\Users\luizi\Downloads\Problema Carros\Carros\obj\Debug\Carros.MainForm.resources
+C:\Users\luizi\Downloads\Problema Carros\Carros\obj\Debug\Carros.csproj.GenerateResource.Cache
+C:\Users\luizi\Downloads\Problema Carros\Carros\obj\Debug\Carros.exe
+C:\Users\luizi\Downloads\Problema Carros\Carros\obj\Debug\Carros.pdb

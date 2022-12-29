@@ -1,0 +1,24 @@
+U:\TPA\projetos TPA\dadinhos\dadinhos\bin\Debug\dadinhos.exe.config
+U:\TPA\projetos TPA\dadinhos\dadinhos\bin\Debug\dadinhos.exe
+U:\TPA\projetos TPA\dadinhos\dadinhos\bin\Debug\dadinhos.pdb
+U:\TPA\projetos TPA\dadinhos\dadinhos\obj\Debug\dadinhos.csprojResolveAssemblyReference.cache
+U:\TPA\projetos TPA\dadinhos\dadinhos\obj\Debug\dadinhos.MainForm.resources
+U:\TPA\projetos TPA\dadinhos\dadinhos\obj\Debug\dadinhos.csproj.GenerateResource.Cache
+U:\TPA\projetos TPA\dadinhos\dadinhos\obj\Debug\dadinhos.exe
+U:\TPA\projetos TPA\dadinhos\dadinhos\obj\Debug\dadinhos.pdb
+C:\Users\luizi\Downloads\Jogo de Dados\dadinhos\bin\Debug\dadinhos.exe.config
+C:\Users\luizi\Downloads\Jogo de Dados\dadinhos\bin\Debug\dadinhos.exe
+C:\Users\luizi\Downloads\Jogo de Dados\dadinhos\bin\Debug\dadinhos.pdb
+C:\Users\luizi\Downloads\Jogo de Dados\dadinhos\obj\Debug\dadinhos.csprojResolveAssemblyReference.cache
+C:\Users\luizi\Downloads\Jogo de Dados\dadinhos\obj\Debug\dadinhos.MainForm.resources
+C:\Users\luizi\Downloads\Jogo de Dados\dadinhos\obj\Debug\dadinhos.csproj.GenerateResource.Cache
+C:\Users\luizi\Downloads\Jogo de Dados\dadinhos\obj\Debug\dadinhos.exe
+C:\Users\luizi\Downloads\Jogo de Dados\dadinhos\obj\Debug\dadinhos.pdb
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\3° Bimestre\Gerador de dado\dadinhos\bin\Debug\dadinhos.exe.config
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\3° Bimestre\Gerador de dado\dadinhos\bin\Debug\dadinhos.exe
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\3° Bimestre\Gerador de dado\dadinhos\bin\Debug\dadinhos.pdb
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\3° Bimestre\Gerador de dado\dadinhos\obj\Debug\dadinhos.csprojResolveAssemblyReference.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\3° Bimestre\Gerador de dado\dadinhos\obj\Debug\dadinhos.MainForm.resources
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\3° Bimestre\Gerador de dado\dadinhos\obj\Debug\dadinhos.csproj.GenerateResource.Cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\3° Bimestre\Gerador de dado\dadinhos\obj\Debug\dadinhos.exe
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\3° Bimestre\Gerador de dado\dadinhos\obj\Debug\dadinhos.pdb
