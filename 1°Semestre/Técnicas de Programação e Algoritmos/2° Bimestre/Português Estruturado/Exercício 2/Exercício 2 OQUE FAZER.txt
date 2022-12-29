@@ -1,0 +1,6 @@
+Editor usado: VisuAlG 3.0 (Lógica de Programação)
+
+Faça um programa em Português Estruturado 
+para receber uma temperatura em graus Fahrenheit (f) 
+e informar o valor correspondente em graus Celsius (c), dado que:
+c = 5 * (f – 32 ) / 9

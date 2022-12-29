@@ -1,0 +1,14 @@
+Editor usado: VisuAlG 3.0 (Lógica de Programação)
+
+Um hippie vende na feirinha colares de diversos tamanhos, 
+com diferentes números de miçangas em cada colar. 
+Colares de 15 miçangas (c1) custam 18 reais, colares de 20 miçangas (c2) custam 25 reais e colares de 30 miçangas 
+(c3) custam 32 reais. 
+Escreva um programa em Português Estruturado 
+que ajude o hippie a calcular o movimento no seu negócio, 
+sabendo que o lucro sobre c1 é de 2 reais, sobre c2 é de 4 reais e sobre c3 é de 8 reais. 
+O hippie deve informar para o programa as quantidades de c1, c2 e c3 
+existentes no estoque no início do dia e no final do dia. 
+O programa deve informar ao hippie a quantidade de unidades vendidas de cada produto 
+c1, c2 e c3, o valor total em reais separado de cada produto, 
+o total geral bruto vendido e o lucro do hippie no final do dia.

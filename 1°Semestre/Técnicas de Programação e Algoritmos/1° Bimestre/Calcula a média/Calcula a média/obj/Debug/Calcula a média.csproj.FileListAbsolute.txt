@@ -1,0 +1,14 @@
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\obj\Debug\Calcula a média.csprojResolveAssemblyReference.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\obj\Debug\Calcula_a_média.MainForm.resources
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\obj\Debug\Calcula a média.csproj.GenerateResource.Cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\bin\Debug\Calcula a média.exe
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\bin\Debug\Calcula a média.pdb
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\obj\Debug\Calcula a média.exe
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\obj\Debug\Calcula a média.pdb
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\bin\Debug\Calcula a média.exe
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\bin\Debug\Calcula a média.pdb
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\obj\Debug\Calcula a média.csprojResolveAssemblyReference.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\obj\Debug\Calcula_a_média.MainForm.resources
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\obj\Debug\Calcula a média.csproj.GenerateResource.Cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\obj\Debug\Calcula a média.exe
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calcula a média\Calcula a média\obj\Debug\Calcula a média.pdb

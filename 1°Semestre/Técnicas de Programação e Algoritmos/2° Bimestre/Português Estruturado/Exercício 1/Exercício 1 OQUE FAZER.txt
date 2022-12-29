@@ -1,0 +1,9 @@
+Editor usado: VisuAlG 3.0 (Lógica de Programação)
+
+Sabendo que cada amafalgafinho custa 15 reais, 
+mas que os amafalgafinhos comprados no lote de 10 unidades 
+custam 8 reais cada unidade, e que os amafalgafinhos comprados no lote de 100 unidades 
+custam 5 reais a unidade, e sabendo que nunca serão vendidos menos do que 100 amafalgafinhos, 
+faça um algoritmo em português estruturado que calcule o total a pagar, sendo que será fornecido 
+para o programa a quantidade total de amafalgafinhos vendidos. 
+Não deve ser utilizada nenhuma estrutura de decisão (comando SE).

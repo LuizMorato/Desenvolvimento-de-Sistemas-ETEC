@@ -1,0 +1,7 @@
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calculadora\Calculadora\obj\Debug\Calculadora.MainForm.resources
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\luizi\OneDrive\Área de Trabalho\Projetos\Lições da ETEC\1°Semestre\Técnicas de Programação e Algoritmos\1° Bimestre\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
