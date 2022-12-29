@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formulário 2</title>
+    <link rel="stylesheet" href="./cssForm2.css">
+</head>
+<body>
+    <form>
+        <p class="titulo">SISTEMA DE GESTÃO ACADÊMICA</p>
+        <p class="subtitulo">MANUTENÇÃO DE USUÁRIOS DO SISTEMA INTERNO</p>
+        Login<input type="text"> <br>
+        Senha<input type="text"> <br>
+        Status<select><option selected>Inativo</option><br></select>
+        <br>
+        Tipo<input type="radio" name="tipo" value="Técnico">Técnico</input>
+        <input type="radio" name="tipo" value="Professor">Professor</input>
+        <input type="radio" name="tipo" value="Aluno">Aluno</input><br>
+        Data Criação<input type="date"></input><br>
+        Perfil<input type="radio" name="perfil" value="Convidado">Convidado</input>
+        <input type="radio" name="perfil" value="Administrador">Administrador</input><br>
+        Observações<textarea name="identificador" rows="5" cols="30"></textarea><br>
+        Módulos<input name="modulo" type="checkbox">Compras</input>
+        <input name="modulo" type="checkbox">Biblioteca</input>
+        <input name="modulo" type="checkbox">Acadêmico</input><br>
+        <input name="modulo" type="checkbox">Documentação</input>
+        <input name="modulo" type="checkbox">Recursos Humanos</input><br>
+        <input type="submit" value="Cadastrar">
+        <input type="submit" value="Excluir">
+    </form>
+</body>
+</html>        

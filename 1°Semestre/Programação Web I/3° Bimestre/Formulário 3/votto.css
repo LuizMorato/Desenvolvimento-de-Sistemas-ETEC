@@ -1,0 +1,39 @@
+fieldset {
+    border-color: palegreen;
+    color: forestgreen;
+    margin-top: 30px;
+    margin-left: 45px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    background-color: mintcream;
+}
+legend{
+    border-color: black;
+}
+.option{
+    color: forestgreen;
+    font-weight: bold;
+    border: lightgreen solid 2px;
+    background-color: white;
+}
+.dados{
+    float: left;
+}
+.idade1 input{
+    display: block;
+    margin-right: 30px;
+    float: left;
+}
+.form{
+    width: 87%;
+}
+.btn{
+    border-color: forestgreen;
+    background-color: white;
+}
+div{
+    float: left;
+}
+.div2{
+    justify-items: right;
+}

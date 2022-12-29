@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.tabela1{
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+    padding: 15px;
+}
+
+.tabela2{
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+    padding: 15px;
+}
+
+.cabecalho{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.menu-item{
+    font-family: 'Sarala', sans-serif;
+    color: black;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.menu{
+    display: flex;
+    gap: 32px;
+}
+
+.titulo{
+    font-family: 'Sarala', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;      
+}
+
+.conteudo{
+    border-top: 0.4px solid black;
+    margin-bottom: 48px;
+}
+
+.subtitulo{
+    font-family: 'Sarala', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: center;
+}
+
+.rodape{
+    padding: 32px;
+    border-top: 0.4px solid black;
+}
+
+.lista {
+    font-family: 'Sarala', sans-serif;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.tabela{
+    border-radius: 15px;
+    text-align: center;
+}

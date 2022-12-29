@@ -1,0 +1,92 @@
+<!--Fazer um site simples, utlizando a tag P, falando sobre as cores da coleta seletiva-->
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    
+    <!--Começo metadatos-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Fim metadatos-->
+
+    <title>Coleta Seletiva</title>
+
+    <!--Link CSS-->
+    <link rel="stylesheet" type="text/css" href="design/style.css">
+
+</head>
+<body>
+
+    <!--Nome do site-->
+    <h1 class="t1">Coleta</h1><h1 class="t2">Seletiva</h1>
+
+    <!--Início navbar-->
+    <nav class="navbar">
+        <div class="container-icon" style="width: 100%;">
+            <a href="#"><img class="icon" src="images/brand.png"></img></a>
+        </div>
+        <ul class="nav-list" id="nav-list">
+            <li class="list-item">
+                <a href="https://etects.com.br/">Escola</a>
+            </li>
+            <li class="list-item">
+                <a href="https://www.naturallimp.com.br/blog/quais-sao-as-cores-da-coleta-seletiva">Referências</a>
+            </li>
+        </ul>
+        <div class="menu" id="toggle-buttons">
+            <div class="menu-line"></div>
+            <div class="menu-line"></div>
+            <div class="menu-line"></div>
+        </div>
+    </nav>
+    <!--Fim navbar-->
+
+    <!--Início do Conteúdo-->
+
+    <div class="container-1">
+        <h1 class="title">Cores da Coleta Seletiva</h1>
+        <img src="images/coleta seletiva.jpeg" alt="As lixeiras" class="image">
+    </div>
+
+    <div class="content">
+
+        <div class="btn1">
+        <button class="btn" onclick="amarelo()">Lixeira Amarela</button>
+        <p id="lixoAmarelo"></p>
+        </div>
+
+        <div class="btn2">
+        <button class="btn" onclick="verde()">Lixeira Verde</button>
+        <p id="lixoVerde"></p>
+        </div>
+
+        <div class="btn3">
+        <button class="btn" onclick="vermelho()">Lixeira Vermelha</button>
+        <p id="lixoVermelho"></p>
+        </div>
+
+        <div class="btn4">
+        <button class="btn" onclick="azul()">Lixeira Azul</button>
+        <p id="lixoAzul"></p>
+        </div>
+
+        <div class="btn5">
+        <button class="btn" onclick="cinza()">Lixeira Cinza</button>
+        <p id="lixoCinza"></p>
+        </div>
+    
+    </div>
+
+    <!--Fim do Conteúdo-->
+
+    <!--Começo do Footer-->
+    <footer class="footer">
+        <p>Autor: Luiz Morato</p>
+        <p>Turma: 1A Mtec</p>
+    </footer>
+    <!--Fim do Footer-->
+    <!--SCRIPT-->
+    <script type="text/javascript" src="design/app.js"> </script>
+</body>
+</html>

@@ -1,0 +1,347 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.p1{
+    font-size: 30px;
+    font-family: Arial;
+    position: absolute;
+    top: 70px;
+    left: 425px;
+}
+.p2{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 105px;
+    left: 535px;
+    font-style: italic;
+    font-weight: 600;
+}
+.p3{
+    text-decoration: underline;
+    font-size: 23px;
+    font-family: Calibri;
+    position: absolute;
+    top: 145px;
+    left: 560px;
+    font-weight: bolder;
+}
+.F1{
+    /* Prefix required. Even Firefox only supports the -webkit- prefix */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    text-shadow: 2px 2px #0000008f;
+    color: rgb(255, 251, 246);
+    font-size: 22px;
+    font-family: Arial;
+    position: absolute;
+    top: 180px;
+    left: 590px;
+    font-weight: bolder;
+    border-inline-start-color: rgb(255, 251, 246);
+}
+.M1{
+    text-decoration-color: black;
+    font-size: 22px;
+    font-family: Arial;
+    position: absolute;
+    top: 179px;
+    left: 670px;
+}
+.Menu1{
+    margin-top: 240px;
+    text-align: left;
+    font-family: Arial;
+}
+.Menu2{
+    text-align: left;
+    font-family: Arial;
+    width: 220px;
+    height: 151px;
+    position: absolute;
+    top: 301px;
+}
+.Menu3{
+    text-align: left;
+    font-family: Arial;
+    width: 400px;
+    height: 148px;
+    position: absolute;
+    top: 301px;
+    left: 222px;
+}
+.Nada{
+    width: 725px;
+    height: 148px;
+    position: absolute;
+    top: 301px;
+    left: 616px;
+    font-size: 7.7px;
+    color: white;
+}
+.Menu4{
+    text-align: left;
+    font-family: Arial;
+    width: 350px;
+    position: absolute;
+    top: 340px;
+
+}.Menu5{
+    text-align: left;
+    font-family: Arial;
+    width: 350px;
+    position: absolute;
+    top: 340px;
+    left: 351px;
+
+}
+.Menu6{
+    text-align: left;
+    font-family: Arial;
+    width: 350px;
+    position: absolute;
+    top: 340px;
+    left: 694px;
+
+}
+.Menu7{
+    text-align: left;
+    font-family: Arial;
+    width: 301px;
+    position: absolute;
+    top: 341px;
+    left: 1040px;
+
+}
+.Menu8{
+    text-align: left;
+    font-family: Arial;
+    width: 1333px;
+    position: absolute;
+    top: 397px;
+}
+.Menu9{
+    text-align: left;
+    font-family: Arial;
+    width: 1333px;
+    position: absolute;
+    top: 437px;
+}
+.Menu10{
+text-align: left;
+font-family: Arial;
+width: 1000px;
+position: absolute;
+top: 477px;
+}
+.Menu11{
+    text-align: left;
+    font-family: Arial;
+    width: 341px;
+    position: absolute;
+    top: 477px;
+    left: 1000px;
+}
+.Menu12{
+        text-align: left;
+        font-family: Arial;
+        width: 490px;
+        position: absolute;
+        top: 517px;
+        right: 8px;
+}
+.Nada1{
+    font-size: 17px;
+    text-align: left;
+    font-family: Arial;
+    color: white;
+    width: 180px;
+    position: absolute;
+    top: 517px;
+    right: 493px;
+}
+.Nada2{
+    font-size: 17px;
+    text-align: left;
+    font-family: Arial;
+    color: white;
+    width: 180px;
+    position: absolute;
+    top: 517px;
+    right: 667px;
+}
+.Nada3{
+    font-size: 17px;
+    text-align: left;
+    font-family: Arial;
+    color: white;
+    width: 500px;
+    position: absolute;
+    top: 517px;
+    right: 841px;
+}
+.Menu13{
+    text-align: left;
+    font-family: Arial;
+    width: 1333px;
+    position: absolute;
+    top: 557px;
+}
+.Menu14{
+    text-align: left;
+    font-family: Arial;
+    width: 1333px;
+    position: absolute;
+    top: 40px;
+}
+.Menu15{
+    text-align: left;
+    font-family: Arial;
+    width: 1333px;
+    position: absolute;
+    top: 100px;
+}
+.Menu16{
+    text-align: left;
+    font-family: Arial;
+    width: 740px;
+    position: absolute;
+    top: 160px;
+}
+.Menu17{
+    text-align: left;
+    font-family: Arial;
+    width: 600px;
+    position: absolute;
+    top: 160px;
+    right: 0px;
+}
+.Menu18{
+    text-align: left;
+    font-family: Arial;
+    width: 1333px;
+    position: absolute;
+    top: 200px;
+}
+.Menu19{
+    text-align: left;
+    font-family: Arial;
+    width: 740px;
+    position: absolute;
+    top: 240px;
+}
+.Menu20{
+    text-align: left;
+    font-family: Arial;
+    width: 600px;
+    position: absolute;
+    top: 240px;
+    right: 0px;
+}
+.Menu21{
+    text-align: left;
+    font-family: Arial;
+    width: 740px;
+    position: absolute;
+    top: 298px;
+}
+.Menu22{
+    text-align: left;
+    font-family: Arial;
+    width: 600px;
+    position: absolute;
+    top: 298px;
+    right: 0px;
+}
+.Menu23{
+    text-align: left;
+    font-family: Arial;
+    width: 1333px;
+    position: absolute;
+    top: 337px;
+}
+.Menu24{
+    line-height: 40px;
+    text-align: left;
+    font-family: Arial;
+    width: 1333px;
+    position: absolute;
+    top: 378px;
+}
+.Menuitem24{
+    text-align: justify;
+}
+.Menu25{
+    text-align: left;
+    font-family: Arial;
+    width: 675px;
+    position: absolute;
+    top: 1234px;
+    left: 8px;
+}
+.Menu26{
+    text-align: left;
+    font-family: Arial;
+    width: 663px;
+    position: absolute;
+    top: 1234px;
+    right: 8px;
+}
+.Menu27{
+    text-align: left;
+    font-family: Arial;
+    width: 675px;
+    position: absolute;
+    top: 1294px;
+    left: 8px;
+}
+.Menu28{
+    text-align: left;
+    font-family: Arial;
+    width: 663px;
+    position: absolute;
+    top: 1294px;
+    right: 8px;
+}
+.Menu29{
+    text-align: center;
+    font-family: Arial;
+    width: 1333px;
+    position: absolute;
+    top: 1335px;
+}
+.Menu30{
+    text-align: left;
+    font-family: Arial;
+    width: 1333px;
+    height: 400px;
+    position: absolute;
+    top: 1500px;
+}
+.Label1{
+    text-align: left;
+    font-family: Arial;
+    position: absolute;
+    left: 100px;
+}
+.Image1{
+    position: absolute;
+    top: 100px;
+    left: 210px;
+    width: 20px;
+    height: 20px;
+}
+.Image2{
+    position: absolute;
+    top: 120px;
+    right: 220px;
+}
+
+
+
+.field_set1{
+    border-color: rgb(0, 0, 0);
+}
+.italic{
+    font-style: italic;
+}
