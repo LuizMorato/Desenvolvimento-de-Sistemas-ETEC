@@ -32,7 +32,7 @@ Aqui os exercícios, atividades ou projetos que eu considerei os melhores:
 ![pixel art](https://user-images.githubusercontent.com/109006053/212548096-49884a66-7013-4dbd-a676-f3e17381f809.png)
 
 ### Ferramentas:
-- Feito em C#
+- Feito em C# (e Windows Forms)
 - IDE: SharpDevelop (alternativa do Visual Studio)
 **OBS:** O software salva o seu desenho no diretório bin/Debug.
 
