@@ -21,14 +21,13 @@ Aqui os exercícios, atividades ou projetos que eu considerei os melhores:
 ![Delivery 1](https://user-images.githubusercontent.com/109006053/212547275-5d658a64-f213-43ce-baff-d2d9b565e4e7.png)
 
 
-
-
 ### Ferramentas:
 
 - Figma, na criação da tela do aplicativo de delivery.
 - Canva, para a edição da propanga.
 
 **Faça uma Pixel Art**
+
 ![pixel art](https://user-images.githubusercontent.com/109006053/212548096-49884a66-7013-4dbd-a676-f3e17381f809.png)
 
 ### Ferramentas:
